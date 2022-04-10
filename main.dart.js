@@ -65388,10 +65388,10 @@ $1:function(a){return C.d},
 $S:433}
 Y.a9p.prototype={
 $2:function(a,b){var s=null
-return L.ah0(P.ao(100,100,0,0),L.aP(H.b(a)+"/"+H.b(b)+" ",s,s,s,A.am(s,s,C.d,s,s,s,s,s,"iknowaghost",s,s,25,s,s,s,s,!0,s,s,s,s,H.c([new O.b5(0,C.Y,C.h,7),new O.b5(0,C.Y,C.h,4),new O.b5(10,C.Y,C.h,0)],t.A6),s,s),s,s),C.m,a*100/b/100,new S.lR(C.d,t.az))},
+return L.ah0(P.ao(100,100,0,0),L.aP(H.b(a)+"/"+H.b(b)+" ",s,s,s,A.am(s,s,C.d,s,s,s,s,s,"OldNewspaperTypes",s,s,25,s,s,s,s,!0,s,s,s,s,H.c([new O.b5(0,C.Y,C.h,7),new O.b5(0,C.Y,C.h,4),new O.b5(10,C.Y,C.h,0)],t.A6),s,s),s,s),C.m,a*100/b/100,new S.lR(C.d,t.az))},
 $S:434}
 Y.a9n.prototype={
-$2:function(c3,c4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9=this,c0=null,c1="iknowaghost",c2=c4.b
+$2:function(c3,c4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9=this,c0=null,c1="OldNewspaperTypes",c2=c4.b
 if(c2!=null){s=b9.a
 s.fr=c2.b
 r=s.dy=c2.c
@@ -65526,7 +65526,7 @@ r.f=r.r=r.cy=r.db=r.cx=r.ch=0
 E.Q8(new Y.a98(r,s.c,s.d),s.b,t.z)},
 $S:2}
 Y.a98.prototype={
-$1:function(a){var s,r=null,q="iknowaghost",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Vida",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a94(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,r)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
+$1:function(a){var s,r=null,q="OldNewspaperTypes",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Vida",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a94(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,r)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
 n=E.jW(r,C.d,L.f2(r,r,r,r,r,r,r,!0,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,r,r,r,r,r,r,r,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,!0,r,r,r,r,A.am(r,r,C.T.h(0,800),r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r),"Vida Atual",r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),k,C.bn,!1,new Y.a8U(j),n,r)
 k=T.aV(r,20,r)
 s=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r)
@@ -65713,7 +65713,7 @@ r.f=r.r=r.cy=r.db=r.cx=r.ch=0
 E.Q8(new Y.a97(r,s.c,s.d),s.b,t.z)},
 $S:2}
 Y.a97.prototype={
-$1:function(a){var s,r=null,q="iknowaghost",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Sanidade",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a9_(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,r)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
+$1:function(a){var s,r=null,q="OldNewspaperTypes",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Sanidade",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a9_(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,r)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
 n=E.jW(r,C.d,L.f2(r,r,r,r,r,r,r,!0,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,r,r,r,r,r,r,r,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,!0,r,r,r,r,A.am(r,r,C.T.h(0,800),r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r),"Sanidade Atual",r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),k,C.bn,!1,new Y.a90(j),n,r)
 k=T.aV(r,20,r)
 s=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r)
@@ -65868,7 +65868,7 @@ r.f=r.r=r.cy=r.db=r.cx=r.ch=0
 E.Q8(new Y.a96(r,s.c,s.d),s.b,t.z)},
 $S:2}
 Y.a96.prototype={
-$1:function(a){var s,r=null,q="iknowaghost",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Humanidade",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a8R(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,1)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
+$1:function(a){var s,r=null,q="OldNewspaperTypes",p=t._,o=T.dj(H.c([T.d6(H.c([L.aP("Valor da Humanidade",r,r,r,A.am(r,r,C.d,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),R.dw(!1,!0,L.du(C.d3,C.d,28),r,!0,r,r,r,r,r,r,r,r,r,new Y.a8R(a),r,r,r)],p),C.v,C.aS,C.u),Z.mb(C.d,1)],p),C.v,C.H,C.u),n=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r),m=$.BK(),l=t.a8,k=H.c([m],l),j=this.a
 n=E.jW(r,C.d,L.f2(r,r,r,r,r,r,r,!0,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,r,r,r,r,r,r,r,new F.bw(4,C.P,new Y.aq(C.d,1,C.o)),r,!0,r,r,r,r,A.am(r,r,C.T.h(0,800),r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r),"Humanidade Minima",r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),k,C.bn,!1,new Y.a8S(j),n,r)
 k=T.aV(r,20,r)
 s=A.am(r,r,C.d,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r)
