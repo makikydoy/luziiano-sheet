@@ -66378,17 +66378,17 @@ g=p}return g}}
 D.ady.prototype={
 $4:function(a,b,c,d){var s,r,q=null,p="OldNewspaperTypes",o=d/2
 if(c<=o&&c>d/4){o=C.b6.h(0,200)
-return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,35,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else if(c<=d/4&&c>0){o=C.b6.h(0,300)
-return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,35,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else if(c<=0){o=C.b6.h(0,800)
-return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,35,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else{o=c<=d/1.3&&c>o
+return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,30,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else if(c<=d/4&&c>0){o=C.b6.h(0,300)
+return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,30,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else if(c<=0){o=C.b6.h(0,800)
+return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,30,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],t.b),q,q),q,q),C.q,a*100/b/100,new S.dY(o,t.L))}else{o=c<=d/1.3&&c>o
 s=t.b
 r=t.L
 if(o){o=C.b6.h(0,100)
-return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,35,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],s),q,q),q,q),C.q,a*100/b/100,new S.dY(o,r))}else return L.fx(P.ax(255,100,100,100),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,35,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],s),q,q),q,q),C.q,a*100/b/100,new S.dY(C.b,r))}},
+return L.fx(P.ax(255,100,0,0),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,30,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],s),q,q),q,q),C.q,a*100/b/100,new S.dY(o,r))}else return L.fx(P.ax(255,100,100,100),L.v(H.c(a)+"/"+H.c(b),q,q,q,A.j(q,q,C.f,q,q,q,q,q,p,q,q,30,q,q,q,q,!0,q,q,q,q,H.a([new O.aZ(0,C.V,C.m,7),new O.aZ(0,C.V,C.m,4),new O.aZ(10,C.V,C.m,0)],s),q,q),q,q),C.q,a*100/b/100,new S.dY(C.b,r))}},
 $S:169}
 D.adz.prototype={
 $2:function(a,b){var s=null,r=C.aN.h(0,800)
-return L.fx(P.ax(255,0,0,100),L.v(H.c(a)+"/"+H.c(b),s,s,s,A.j(s,s,C.b,s,s,s,s,s,"OldNewspaperTypes",s,s,35,s,s,s,s,!0,s,s,s,s,H.a([new O.aZ(0,C.f,C.m,7),new O.aZ(0,C.f,C.m,4),new O.aZ(10,C.f,C.m,0)],t.b),s,s),s,s),C.q,a*100/b/100,new S.dY(r,t.L))},
+return L.fx(P.ax(255,0,0,100),L.v(H.c(a)+"/"+H.c(b),s,s,s,A.j(s,s,C.b,s,s,s,s,s,"OldNewspaperTypes",s,s,30,s,s,s,s,!0,s,s,s,s,H.a([new O.aZ(0,C.f,C.m,7),new O.aZ(0,C.f,C.m,4),new O.aZ(10,C.f,C.m,0)],t.b),s,s),s,s),C.q,a*100/b/100,new S.dY(r,t.L))},
 $S:102}
 Z.ua.prototype={
 a7:function(){return new Z.zt(C.r)}}
